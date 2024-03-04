@@ -1,6 +1,7 @@
 ## 欢迎来到Dreamdawn Studio的GitHub账号
-该账号所属于Dreamdawn Network。提供所有属于Dreamdawn的开源程序和我们修改过的程序分支。
-部分程序使用我们特定的许可证发布，在使用前请关注相关信息。
+该账号所属于Dreamdawn Network。  
+提供所有属于Dreamdawn的开源程序和我们修改过的程序分支。  
+部分程序使用我们特定的许可证发布，在使用前请关注相关信息。  
 感谢支持！
 
 <!--
